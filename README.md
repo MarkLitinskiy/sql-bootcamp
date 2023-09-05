@@ -1,5 +1,5 @@
 # SQL Bootcamp
-Project date: 06.2023
+Project date: 06.2023  
 My first steps to SQL in School 21.
 
 ## General Rules
